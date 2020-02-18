@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Atanu Chatterjee
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Worcester Polytechnic Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include studying emergent phenomena in soft-condensed matter physics and far-from-equilibrium processes.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Complexity Science
+- Statistical Mechanics
+- Far-from-equilibrium Processes
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: Wocrester Polytechnic Institute
+    year: 2016 - present
+  - course: MS in Physics
+    institution: Wocrester Polytechnic Institute
+    year: 2018
+  - course: MS in Applied Mathematics and Computational Science
+    institution: Indian Institute of Technology
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a soft-condensed matter physicist and the focus of my research over the last seven years has been at the intersection of complexity science and non-equilibrium thermodynamics. The intersection of complex systems science and non-equilibrium thermodynamics gives rise to a rich field of exploration that encompasses many fascinating systems and real-life phenomena, all of which contribute to the diversity and complexity in the world around us. The salient features of complex systems include, presence of numerous interacting parts and the ability to self-organize while giving rise to emergent structures. In my research, I try to understand, address, and quantify these observable features of complex systems through the fundamental laws of physics and thermodynamics.
