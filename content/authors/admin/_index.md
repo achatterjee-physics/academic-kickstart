@@ -56,9 +56,9 @@ social:
   # link: https://www.researchgate.net/profile/Atanu_Chatterjee5
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: cv_atanu.pdf
+# - icon: cv
+ #  icon_pack: ai
+  # link: cv_atanu.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "achatterjee3@wpi.edu"
@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 <DIV align="justify">
-I am a soft-condensed matter physicist and the focus of my research over the last seven years has been at the intersection of complexity science and non-equilibrium thermodynamics. The intersection of complex systems science and non-equilibrium thermodynamics gives rise to a rich field of exploration that encompasses many fascinating systems and real-life phenomena, all of which contribute to the diversity and complexity in the world around us. The salient features of complex systems include, presence of numerous interacting parts and the ability to self-organize while giving rise to emergent structures. In my research, I try to understand, address, and quantify these observable features of complex systems through the fundamental laws of physics and thermodynamics.
+I am a soft-condensed matter physicist and the focus of my research over the last seven years has been at the intersection of complexity science and non-equilibrium thermodynamics. The intersection of complex systems science and non-equilibrium thermodynamics gives rise to a rich field of exploration that encompasses many fascinating systems and real-life phenomena, all of which contribute to the diversity and complexity in the world around us. The salient features of complex systems include, presence of numerous interacting parts and the ability to self-organize while giving rise to emergent structures. In my research, I try to understand, address, and quantify these observable features of complex systems through the fundamental laws of physics and thermodynamics. Check out my CV <a href="atanuchatterjee.netlify.com/cv_atanu.pdf">here</a>! 
 </DIV>
