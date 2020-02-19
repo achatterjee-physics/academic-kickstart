@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'achatterjee3@wpi.edu'  # For a direct email link, use "achatterjee3@wpi.edu".
+  link: '#contact'  # For a direct email link, use "achatterjee3@wpi.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/atanu_physics
@@ -60,8 +60,8 @@ social:
   # icon_pack: ai
   # link: cv_atanu.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "achatterjee3@wpi.edu"
+ Enter email to display Gravatar (if Gravatar enabled in Config)
+ email: "achatterjee3@wpi.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
