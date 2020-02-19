@@ -22,23 +22,23 @@ date_format = "Jan 2006"
   company = "Department of Physics of Complex Systems, Weizmann Institute of Science"
   company_url = "https://www.weizmann.ac.il/complex/"
   location = "Rehovot, Israel"
-  date_start = "2019-12"
-  date_end = "2020-01"
+  # date_start = "2019-12"
+  # date_end = "2020-01"
 
 [[experience]]
   title = "Visiting Scientist"
   company = "Department of Energy, Politecnico di Torino"
   company_url = "http://www.denerg.polito.it/en/"
   location = "Torino, Italy"
-  date_start = "2017-10"
-  date_end = "2018-01"
+  # date_start = "2017-10"
+  # date_end = "2018-01"
 
 [[experience]]
   title = "Graduate Research Assistant"
   company = "Department of Civil and Electrical Engineering, Indian Institute of Technology MadraS"
   company_url = "https://civil.iitm.ac.in/"
   location = "Chennai, India"
-  date_start = "2013-07"
-  date_end = "2015-12"
+  # date_start = "2013-07"
+  # date_end = "2015-12"
   
 +++
