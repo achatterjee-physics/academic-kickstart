@@ -60,8 +60,8 @@ social:
   # icon_pack: ai
   # link: cv_atanu.pdf
 
- Enter email to display Gravatar (if Gravatar enabled in Config)
- email: "achatterjee3@wpi.edu"
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+# email: "achatterjee3@wpi.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
