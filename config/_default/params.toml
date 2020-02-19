@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "XS"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -90,7 +90,7 @@ address = {street = "100 Institute Road", city = "Worcester", region = "MA", pos
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.278330", longitude = "-71.808878"}
+coordinates = {latitude = "42.275034", longitude = "-71.807849"}
 
 # Directions for visitors to locate you.
 Office = "Olin Hall 004"
