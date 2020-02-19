@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "Department of Physics, Worcester Polytechnic Institute"
+  company_url = "https://www.wpi.edu/people/doctoral-student/achatterjee3#profile-doctoral_profile"
+  location = "Worcester, MA, USA"
+  date_start = "2016-01-01"
+  # date_end = "2015-12-01"
+
+[[experience]]
   title = "Visiting Scientist"
   company = "Department of Physics of Complex Systems, Weizmann Institute of Science"
   company_url = "https://www.weizmann.ac.il/complex/"
