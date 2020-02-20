@@ -44,7 +44,7 @@ subtitle = ""
   #   5 = Showcase
   view = 3
   
-  research = "Coursera"
+  # research = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
@@ -52,7 +52,8 @@ subtitle = ""
   date_start = "2018-10-01"
   date_end = ""
   description = ""
-
+  
+  [[item]]
   research = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
