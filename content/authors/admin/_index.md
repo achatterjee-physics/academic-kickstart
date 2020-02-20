@@ -14,7 +14,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Worcester Polytechnic Institute
+- name: Order Disorder Phenomena Lab, Worcester Polytechnic Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "achatterjee3@wpi.edu".
+  link: 'mailto:achatterjee3@wpi.edu'  # For a direct email link, use "achatterjee3@wpi.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/atanu_physics
