@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: Order Disorder Phenomena Lab 
-  url: "sites.google.com/view/odpl"
+  link: "https://sites.google.com/view/odpl"
 - name: Worcester Polytechnic Institute  
 
 # Short bio (displayed in user profile at end of posts)
