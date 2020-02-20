@@ -10,11 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Order Disorder Phenomena Lab
+url: "sites.google.com/view/odpl"
 
 # Organizations/Affiliations
 organizations:
-- name: Order Disorder Phenomena Lab, Worcester Polytechnic Institute
+- name: Worcester Polytechnic Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
