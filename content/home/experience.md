@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Visiting Scientists"
+  title = "Visiting Scientist"
   company = "Department of Physics of Complex Systems, Weizmann Institute of Science"
   company_url = "https://www.weizmann.ac.il/complex/"
   location = "Rehovot, Israel"
