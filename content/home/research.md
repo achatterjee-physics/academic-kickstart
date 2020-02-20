@@ -45,7 +45,7 @@ subtitle = ""
   view = 3
   
   [[research]]
-  organization_url = "https://www.coursera.org"
+  # organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
   certificate_url = "https://www.coursera.org"
@@ -54,7 +54,7 @@ subtitle = ""
   description = ""
   
   [[research]]
-  organization_url = "https://www.edx.org"
+  # organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://www.edx.org"
@@ -63,7 +63,7 @@ subtitle = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[research]]
-  organization = "DataCamp"
+  # organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
