@@ -1,6 +1,6 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "research"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
@@ -44,7 +44,7 @@ subtitle = ""
   #   5 = Showcase
   view = 3
   
-  # research = "Coursera"
+  [[research]]
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
@@ -53,8 +53,7 @@ subtitle = ""
   date_end = ""
   description = ""
   
-  [[item]]
-  research = "edX"
+  [[research]]
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
@@ -63,7 +62,7 @@ subtitle = ""
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[item]]
+[[research]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
