@@ -16,7 +16,7 @@ role: Graduate Student
 organizations:
 - name: Order Disorder Phenomena Lab
   link: https://sites.google.com/view/odpl
-- name: Worcester Polytechnic Institute  
+# - name: Worcester Polytechnic Institute  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include studying emergent phenomena in soft-condensed matter physics and far-from-equilibrium processes.
@@ -52,9 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=43BYlpgAAAAJ&hl=en
-# - icon: researchgate
-  # icon_pack: ai
-  # link: https://www.researchgate.net/profile/Atanu_Chatterjee5
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Atanu_Chatterjee5
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
