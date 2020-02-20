@@ -10,13 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Order Disorder Phenomena Lab
-url: "sites.google.com/view/odpl"
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Worcester Polytechnic Institute
-  url: ""
+- name: Order Disorder Phenomena Lab Worcester Polytechnic Institute
+  url: "sites.google.com/view/odpl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include studying emergent phenomena in soft-condensed matter physics and far-from-equilibrium processes.
