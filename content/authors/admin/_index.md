@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Order Disorder Phenomena Lab
-  url: "https://sites.google.com/view/odpl"
-- name: Worcester Polytechnic Institute  
+- name: Department of Physics of Complex Systems
+  url: "http://www.weizmann.ac.il/complex/people"
+- name: Weizmann Institute of Science
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include studying emergent phenomena in soft-condensed matter physics and far-from-equilibrium processes.
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Physics
     institution: Wocrester Polytechnic Institute
-    year: 2016 - present
+    year: 2020
   - course: MS in Physics
     institution: Wocrester Polytechnic Institute
     year: 2018
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:achatterjee3@wpi.edu'  # For a direct email link, use "achatterjee3@wpi.edu".
+  link: 'mailto:atanu.chatterjee@weizmann.ac.il'  # For a direct email link, use "achatterjee3@wpi.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/atanu_physics
