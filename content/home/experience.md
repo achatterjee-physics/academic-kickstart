@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.weizmann.ac.il/complex/"
   location = "Rehovot, Israel"
   date_start = "2020-07-15"
-  date_end = "Present"
+  date_end = ""
   
 [[experience]]
   title = "Visiting Scientist"
